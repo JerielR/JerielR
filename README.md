@@ -1,4 +1,14 @@
-### Hi there 👋
+# Welcome to my GitHub Profile! 👋
+
+## About Me 
+My name is Jeriel Reyes Acevedo and I am a Software Engineering major at the University of Puerto Rico at Mayaguez. I mostly enjoy working on web applications and front-end development but am eager to explore the server side of the process as well. In this profile you will be able to get a full view of some of the projects that I have been working on recently.  
+
+## Languages 💻
+Throughout my software developer career I have been exposed to multiple programming languages along the way but here are my main and preferred languages to develop software with:
+* Python
+* JavaScript
+* HTML/CSS
+* C++
 
 <!--
 **JerielR/JerielR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
